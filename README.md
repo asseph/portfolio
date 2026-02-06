@@ -1,6 +1,6 @@
 # <i>Work Experience</i>
 
-I have built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E, PvP games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
+I've built several NFT/Blockchain projects including NFT lending/borrowing, minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, and P2E, PvP games(lootboxes, dice, crash, jackpot, coinflip, etc). All of repos are under private status.
 
 <h3><u><strong><i>PvPLabs</i></strong></u> &nbsp;- Solana PvP Betting Game</h3>
 <hr />
